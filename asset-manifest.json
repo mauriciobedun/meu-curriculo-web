@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meu-curriculo-web/static/css/main.e6c13ad2.css",
+    "main.js": "/meu-curriculo-web/static/js/main.522ce9a8.js",
+    "static/js/453.c3699d3b.chunk.js": "/meu-curriculo-web/static/js/453.c3699d3b.chunk.js",
+    "static/media/profile.jpg": "/meu-curriculo-web/static/media/profile.de03f517a44f30223106.jpg",
+    "index.html": "/meu-curriculo-web/index.html",
+    "main.e6c13ad2.css.map": "/meu-curriculo-web/static/css/main.e6c13ad2.css.map",
+    "main.522ce9a8.js.map": "/meu-curriculo-web/static/js/main.522ce9a8.js.map",
+    "453.c3699d3b.chunk.js.map": "/meu-curriculo-web/static/js/453.c3699d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.522ce9a8.js"
+  ]
+}
